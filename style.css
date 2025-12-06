@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #35383713;
+    background-color: #6b646413;
     font-family: 'Cairo', sans-serif;
     color: #1e1d1d;
 }
@@ -14,7 +14,18 @@ body {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
 }
+.myPic {
+    border-radius: 25px;
+}
+.image{
+    border-radius: 25px;
+}
+.pra{
+    background-color: rgb(221, 199, 218);
+    color: black;
+    font-weight: bold;
+}
 
-.myPic{
-border-radius: 25px
+.net{
+    color: purple;
 }
